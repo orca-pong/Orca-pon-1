@@ -1,2 +1,2 @@
 hi i am error 2.0. How can i help you
-
+finally, successfully i push the file in github through by termux
